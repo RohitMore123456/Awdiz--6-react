@@ -25,6 +25,7 @@ function App(){
         <Route path='/EffectFour' element = {<EffectFour />} />
         <Route path='/EffectFour' element = {<EffectFour />} />
         
+        
       </Routes>
     </div>
   );
