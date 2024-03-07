@@ -24,6 +24,7 @@ function App(){
         <Route path='/EffectThree' element = {<EffectThree />} />
         <Route path='/EffectFour' element = {<EffectFour />} />
         <Route path='/EffectFour' element = {<EffectFour />} />
+        <Route path='/Register' element = {<Register />} />
         
         
       </Routes>
