@@ -23,7 +23,7 @@ function App(){
         <Route path='/EffectTwo' element = {<EffectTwo />} />
         <Route path='/EffectThree' element = {<EffectThree />} />
         <Route path='/EffectFour' element = {<EffectFour />} />
-        
+        <Route path='/EffectFour' element = {<EffectFour />} />
       </Routes>
     </div>
   );
